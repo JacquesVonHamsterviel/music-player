@@ -2,6 +2,9 @@
 
 在线音乐播放器 Fork From https://github.com/meethigher/music-player <本项目已开源>
 
+####项目问题
+经测试，只支持电脑端使用，弃用本项目。
+
 #### 感谢前几位的开发
 
 #### 项目环境 前后端分离
