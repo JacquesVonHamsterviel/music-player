@@ -1,3 +1,5 @@
+#### ！！！这个原本做的欠佳，只支持电脑端使用，改不动了，还是用另外一个项目吧：https://github.com/JacquesVonHamsterviel/OnlineMusicPlayer
+
 #### 项目名称
 
 在线音乐播放器 Fork From https://github.com/meethigher/music-player <本项目已开源>
